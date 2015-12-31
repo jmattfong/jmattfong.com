@@ -11,9 +11,9 @@ class Feedback extends Component {
     return (
       <div className="Feedback">
         <div className="Feedback-container">
-          <a className="Feedback-link" href="https://gitter.im/kriasoft/react-starter-kit">Ask a question</a>
+          <a className="Feedback-link" href="https://gitter.im/jmattfong/jmattfong.com">Ask a question</a>
           <span className="Feedback-spacer">|</span>
-          <a className="Feedback-link" href="https://github.com/kriasoft/react-starter-kit/issues/new">Report an issue</a>
+          <a className="Feedback-link" href="https://github.com/jmattfong/jmattfong.com/issues/new">Report an issue</a>
         </div>
       </div>
     );
