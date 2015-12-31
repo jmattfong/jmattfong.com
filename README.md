@@ -1,5 +1,7 @@
 ## React Starter Kit — "isomorphic" web app boilerplate
 
+[![Join the chat at https://gitter.im/jmattfong/jmattfong.com](https://badges.gitter.im/jmattfong/jmattfong.com.svg)](https://gitter.im/jmattfong/jmattfong.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Support us on Bountysource](https://dl.dropboxusercontent.com/u/16006521/react-starter-kit/banner.png)](https://salt.bountysource.com/teams/react-starter-kit)<br>
 
 > [React Starter Kit](http://www.reactstarterkit.com) is an opinionated
