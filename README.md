@@ -1,7 +1,8 @@
 ## React Starter Kit — "isomorphic" web app boilerplate
 
 [![Travis CI](https://api.travis-ci.org/jmattfong/jmattfong.com.svg)](https://travis-ci.org/jmattfong/jmattfong.com)
-[![WATCHING YOUR NODE.JS DEPENDENCIES](https://david-dm.org/jmattfong/jmattfong.com.svg)](https://david-dm.org/jmattfong/jmattfong.com)
+[![Dependency Tracking](https://david-dm.org/jmattfong/jmattfong.com.svg)](https://david-dm.org/jmattfong/jmattfong.com)
+[![Dependency Tracking](https://david-dm.org/jmattfong/jmattfong.com/dev-status.svg)](https://david-dm.org/CreaturePhil/dbb#info=devDependencies)
 [![Coverage Status](https://coveralls.io/repos/jmattfong/jmattfong.com/badge.svg?branch=master&service=github)](https://coveralls.io/github/jmattfong/jmattfong.com?branch=master)
 [![Join the chat at https://gitter.im/jmattfong/jmattfong.com](https://badges.gitter.im/jmattfong/jmattfong.com.svg)](https://gitter.im/jmattfong/jmattfong.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
