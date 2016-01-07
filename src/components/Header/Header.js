@@ -20,7 +20,7 @@ class Header extends Component {
           <Navigation className="Header-nav" />
           <div className="Header-banner">
             <h1 className="Header-bannerTitle">jmattfong.com</h1>
-            <p className="Header-bannerDesc">This is the sub-title</p>
+            <p className="Header-bannerDesc">I don't know what I'm doing</p>
           </div>
         </div>
       </div>
